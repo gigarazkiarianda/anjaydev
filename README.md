@@ -27,7 +27,7 @@ Framework, Library, Database, Tools, etc
 ## Installation
 Steps to Install and Run the Project Locally
 ```bash
-# Clone repository ini
+# Clone this repository 
 git clone https://github.com/gigarazkiarianda/anjaydev-landing-page.git
 
 # Go to the project directory
