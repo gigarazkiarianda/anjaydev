@@ -13,7 +13,7 @@
 
 
 ## Introduction
-This project is a website for ANJAYDEV, a technology development agency that offers services such as website development, mobile app development, and AI solutions. With a responsive and attractive layout, the site showcases various services, a portfolio of projects, client testimonials, and a contact form to facilitate communication with customers. Using Bootstrap and Font Awesome, this design ensures a great user experience across different devices.
+This project is a personal project for practicing website development, specifically creating a landing page using the Bootstrap framework. It features a responsive and attractive layout that showcases various services, a portfolio of projects, client testimonials, and a contact form to facilitate communication. By utilizing Bootstrap and Font Awesome, this design ensures a great user experience across different devices.
 
 ## Tech Stack
 Framework, Library, Database, Tools, etc
