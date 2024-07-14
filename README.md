@@ -1,11 +1,11 @@
-<h1 align="center">Anjaydev Landing Page</h1>
+<h1 align="center">Anjaydev</h1>
 
 <p align="center">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gigarazkiarianda/anjaydev-landing-page">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/gigarazkiarianda/anjaydev-landing-page">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gigarazkiarianda/anjaydev">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/gigarazkiarianda/anjaydev">
   <a href="https://github.com/gigarazkiarianda/readme-template/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/gigarazkiarianda/anjaydev-landing-page">
   </a>
